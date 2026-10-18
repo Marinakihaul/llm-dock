@@ -1,0 +1,50 @@
+{
+    "name":  "llm-dock",
+    "logo":  "⚓",
+    "exe":  "LlmDock.exe",
+    "desc":  "Free, open-source floating Q\u0026A dock for Windows — summon local LLM over any app, keep it pinned. 100 MB portable, offline, MIT, no account.",
+    "topics":  [
+                   "chat-overlay",
+                   "local-ai",
+                   "llm-client",
+                   "quick-ask",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "hotkey",
+                   "always-on-top",
+                   "clipboard",
+                   "model-switcher",
+                   "lightweight",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Summon hotkey** — a slim prompt bar appears over any app; escape dismisses it without a trace",
+                     "✅ **Drop-to-ask** — drag selected text or a whole file onto the dock for an immediate question",
+                     "✅ **Sticky mini chat** — conversation stays pinned beside your work instead of covering it",
+                     "✅ **Model quick-switch** — three pinned models in the dock menu for fast small versus heavy calls",
+                     "✅ **Clipboard answers** — copy button grabs code or text straight into whatever you are doing",
+                     "✅ **Under 90 MB of RAM** — it is a thin client, not a second browser eating your evening",
+                     "✅ **100 MB self-contained exe** — runtime bundled, connects to any local server, offline, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **llm-dock** | LM Studio chat | Open WebUI | ChatGPT desktop |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free | Free, OSS | Free tier |",
+                    "| Open source | **Yes** | No | Yes | No |",
+                    "| Summon-over-any-app bar | **Yes** | No | No | Partial",
+                    "| Drop text or file to ask | **Yes** | No | No | Partial",
+                    "| RAM footprint | **Under 90 MB** | Heavy | Browser weight | Electron heavy",
+                    "| Portable, no install | **Yes, 100 MB** | Installer | Docker | Installer"
+                ],
+    "faqQ":  "quickest way to ask a local LLM a question while working in another app?",
+    "faqA":  "Alt-tabbing into a big chat app breaks focus and eats RAM. llm-dock is a slim bar summoned over the current window, takes dropped text or files and answers from your local server. It is a 100 MB portable exe, MIT, offline, and fits beside your editor instead of over it.",
+    "s1":  "Dark dock (#121417, violet #8B5CF6): slim bar at screen bottom over an editor, question field active, answer popover with copy and expand buttons above it.",
+    "s2":  "Drop interaction: file chip named contract.pdf resting on the dock, processing shimmer, suggested asks listed as three quick buttons.",
+    "s3":  "Dock menu open: three pinned models with speed notes, sticky mode toggle on, settings row for server address, RAM usage chip reading 84 MB."
+}
